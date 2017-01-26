@@ -58,6 +58,24 @@ nav li a {
 }
 
 
+nav li a:link {
+	color: #77777;
+}
+
+nav li a:visited {
+	color:#ffa06f;
+}
+
+nav li a:hover {
+	text-decoration: none; 
+	color: white;
+	background-color: #B2592a;
+}
+
+nav li a:active {
+	color: 4aaaa5;
+}
+
 h1 {
 	color: white;	
 	text-align: center;
